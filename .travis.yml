@@ -5,7 +5,7 @@ node_js:
   - 0.12.5
 
 #运行的脚本命令
-#script:
+script: true
 #  - npm run ci
 
 #指定分支，只有指定的分支提交时才会运行脚本
